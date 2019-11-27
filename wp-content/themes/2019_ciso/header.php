@@ -25,9 +25,9 @@
                     </a>
 
                     <section class="section--header__logos__text">
-                        <section class="section--header__logos__text__sign">Issac Straley</section>
+                        <section class="section--header__logos__text__sign">Isaac Straley</section>
 
-                        <p>Issac Straley, CISO</p>
+                        <p>Isaac Straley, CISO</p>
 
                         <p>University of Toronto</p>
                     </section>

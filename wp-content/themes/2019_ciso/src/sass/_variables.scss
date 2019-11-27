@@ -67,6 +67,7 @@ $footer: 'footer' !default;
     --gold-light: #{ $gold-light };
     --gold-medium: #{ $gold-medium };
     --tan: #{ $tan };
+    --white--rgb: #{ hex-to-rgb( $white ) };
     --white: #{ $white };
     --margin: #{ $margin };
     --padding: #{ $padding };
