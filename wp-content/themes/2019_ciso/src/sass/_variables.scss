@@ -36,6 +36,7 @@ $news: 'news' !default;
 $highlights: 'highlights' !default;
 $follow: 'follow' !default;
 $footer: 'footer' !default;
+$search: 'search' !default;
 
 // CSS variables
 // Convert Hex values to RGBA if needed
@@ -63,6 +64,7 @@ $footer: 'footer' !default;
     --green-medium: #{ $green-medium };
     --green-deep-forest: #{ $green-deep-forest };
     --green-deep-hunter: #{ $green-deep-hunter };
+    --green-deep-hunter--rgb: #{ hex-to-rgb( $green-deep-hunter ) };
     --gold-very-light: #{ $gold-very-light };
     --gold-light: #{ $gold-light };
     --gold-medium: #{ $gold-medium };
