@@ -819,7 +819,19 @@ a {
         }
     }
 
+    &-not-found-title,
     &-not-found-text {
         margin-bottom: $margin*2;
     }
+}
+
+// 404
+.error404 .#{$search}-form-container .#{$search}-form {
+    @include button-styles(
+        $background-color: var(--white),
+        $border-color: var(--green-deep-hunter),
+        $padding: 0
+    );
+
+    width: 50%;
 }
